@@ -6,5 +6,5 @@ Renan Rodrigues Gervatosky  git user: RenanGervatosky   R.A.: 15.01419-3
 
 1ª idéia - Drone de Carga
 2ª idéia - skate de carga/robô de carga
-3ª idéia - 
+3ª idéia - Tranca Eletrônica - Escolhida
 4ª idéia - 
